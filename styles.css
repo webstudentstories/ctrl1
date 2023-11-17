@@ -1,0 +1,163 @@
+
+body
+{
+    background-color: rgb(129, 0, 0);
+  
+  
+}
+
+#titre
+{
+    color: white;
+    text-align: center;
+    border: 2px;
+    font-family: 'Voltaire', sans-serif;
+    letter-spacing: 3px;
+    
+}
+
+#bord
+{
+    border-color: white;
+    border-width: 4px;
+    border-style:outset;
+    margin-left: 37%;
+    margin-right:37%;
+border-bottom-right-radius: 19px;
+border-top-left-radius: 19px;
+position:static;
+        }
+    
+
+#menu
+{
+    list-style-type: none;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 23%;
+    margin-left: 36%;
+    width: 23%;
+    font-size: larger;
+    color: white;
+    font-family: 'Luckiest Guy';
+    float: center;
+    
+  
+
+    
+    
+}
+#gauche
+{
+    width: 130px;
+    height: 130px;
+    margin-left: 20%;
+    position:relative;
+    bottom: 150px;
+    border-style:outset;
+    border-width: 4px;
+    border-bottom-right-radius: 37%;
+    border-top-left-radius: 37%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#droite
+{
+    width: 130px;
+    height: 130px;
+    margin-left: 70%;
+    position:relative;
+    bottom: 285px;
+    border-style:outset;
+    border-width: 4px;
+    border-top-right-radius:  37%;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+#on1
+{
+    border-bottom-right-radius: 12px;
+
+border-top-left-radius: 12px;
+   font-size: 18px;
+   text-align: center;
+ border-style: outset;
+ box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+
+#ok1
+{
+    text-decoration: none;
+  color: black;
+}
+
+#ok2
+{
+    text-decoration: none;
+  color: black
+}
+
+#phtexte
+{
+    width: 23%;
+    margin-left: 1200px;
+    position: relative;
+    bottom: 270px;    
+}
+
+#texte1
+{
+ position: relative;
+    color: white;
+    bottom: 600px;
+    margin-left: 949px;
+    text-align: justify;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Voltaire', sans-serif;
+
+    
+}
+
+#phtexte1
+{
+    width: 23%;
+    position: relative;
+    margin-left: 250px;
+    bottom: 920px;
+    
+}
+
+#texte2
+{
+    color: white;
+    position: relative;
+    bottom: 1250px;
+    font-family: 'Voltaire', sans-serif;
+    font-size: 20px;
+    margin-left: 390px;
+
+}
+
+#construction
+{
+    font-size: 100px;
+    color: white;
+    font-family: 'Voltaire', sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 1450px;
+    z-index: 100;
+}
+
+#vlc
+{
+  margin-left: 700px;
+  bottom: 1800px;
+  position: relative;
+}
+
